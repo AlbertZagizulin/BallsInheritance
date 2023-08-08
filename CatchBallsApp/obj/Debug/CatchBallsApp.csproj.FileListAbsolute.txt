@@ -1,0 +1,14 @@
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\CatchBallsApp\bin\Debug\CatchBallsApp.exe.config
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\CatchBallsApp\bin\Debug\CatchBallsApp.exe
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\CatchBallsApp\bin\Debug\CatchBallsApp.pdb
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\CatchBallsApp\obj\Debug\CatchBallsApp.csproj.AssemblyReference.cache
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\CatchBallsApp\obj\Debug\CatchBallsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\CatchBallsApp\obj\Debug\CatchBallsApp.CatchForm.resources
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\CatchBallsApp\obj\Debug\CatchBallsApp.Properties.Resources.resources
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\CatchBallsApp\obj\Debug\CatchBallsApp.csproj.GenerateResource.cache
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\CatchBallsApp\obj\Debug\CatchBallsApp.csproj.CoreCompileInputs.cache
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\CatchBallsApp\obj\Debug\CatchBallsApp.csproj.CopyComplete
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\CatchBallsApp\obj\Debug\CatchBallsApp.exe
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\CatchBallsApp\obj\Debug\CatchBallsApp.pdb
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\CatchBallsApp\bin\Debug\BallsLibrary.dll
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\CatchBallsApp\bin\Debug\BallsLibrary.pdb
