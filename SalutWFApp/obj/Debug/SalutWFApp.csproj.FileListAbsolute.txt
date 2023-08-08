@@ -1,0 +1,14 @@
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\SalutWFApp\bin\Debug\SalutWFApp.exe.config
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\SalutWFApp\bin\Debug\SalutWFApp.exe
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\SalutWFApp\bin\Debug\SalutWFApp.pdb
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\SalutWFApp\bin\Debug\BallsLibrary.dll
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\SalutWFApp\bin\Debug\BallsLibrary.pdb
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\SalutWFApp\obj\Debug\SalutWFApp.csproj.AssemblyReference.cache
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\SalutWFApp\obj\Debug\SalutWFApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\SalutWFApp\obj\Debug\SalutWFApp.Properties.Resources.resources
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\SalutWFApp\obj\Debug\SalutWFApp.SalutForm.resources
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\SalutWFApp\obj\Debug\SalutWFApp.csproj.GenerateResource.cache
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\SalutWFApp\obj\Debug\SalutWFApp.csproj.CoreCompileInputs.cache
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\SalutWFApp\obj\Debug\SalutWFApp.csproj.CopyComplete
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\SalutWFApp\obj\Debug\SalutWFApp.exe
+C:\Users\alber\source\repos\OnlineCourse11Stream_Kurators\BallGamesWFApp\SalutWFApp\obj\Debug\SalutWFApp.pdb
